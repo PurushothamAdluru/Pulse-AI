@@ -1,0 +1,146 @@
+[
+    {
+        "timestamp": "2025-12-08 15:22:13.555067",
+        "message": "I want to talk to sales about your product.",
+        "intent": "general_enquiry",
+        "sentiment": "neutral",
+        "lead_score": 30,
+        "recommended_action": "Add to newsletter and monitor engagement."
+    },
+    {
+        "timestamp": "2025-12-08 15:35:20.827756",
+        "message": "i want to check subscription details",
+        "intent": "pricing",
+        "sentiment": "neutral",
+        "lead_score": 65,
+        "recommended_action": "Send pricing page + offer a 15 min consultation."
+    },
+    {
+        "timestamp": "2025-12-08 20:42:31.150612",
+        "message": "what is the price of youre product",
+        "intent": "pricing",
+        "sentiment": "neutral",
+        "lead_score": 65,
+        "recommended_action": "Send pricing page + offer a 15 min consultation."
+    },
+    {
+        "timestamp": "2025-12-08 20:42:49.370527",
+        "message": "what is the price of the product",
+        "intent": "pricing",
+        "sentiment": "neutral",
+        "lead_score": 65,
+        "recommended_action": "Send pricing page + offer a 15 min consultation."
+    },
+    {
+        "timestamp": "2025-12-08 20:43:02.672355",
+        "message": "i hate youre product",
+        "intent": "general_enquiry",
+        "sentiment": "negative",
+        "lead_score": 30,
+        "recommended_action": "Add to newsletter and monitor engagement."
+    },
+    {
+        "timestamp": "2025-12-08 20:43:14.300714",
+        "message": "i want to buy youre product",
+        "intent": "purchase_intent",
+        "sentiment": "neutral",
+        "lead_score": 80,
+        "recommended_action": "Assign salesperson immediately."
+    },
+    {
+        "timestamp": "2025-12-10 10:46:44.888147",
+        "message": "i did not like the product, but i liked the service",
+        "intent": "complaint",
+        "sentiment": "neutral",
+        "lead_score": 10,
+        "recommended_action": "Low priority. No immediate follow-up required."
+    },
+    {
+        "timestamp": "2025-12-11 22:18:25.068885",
+        "message": "Hi, I\u2019m interested in purchasing your product. Can you share the pricing details?",
+        "intent": "general_enquiry",
+        "sentiment": "neutral",
+        "lead_score": 50,
+        "recommended_action": "Add to newsletter and monitor engagement."
+    },
+    {
+        "timestamp": "2025-12-11 22:18:37.084014",
+        "message": "I\u2019m trying to use the dashboard but nothing is loading. Is something wrong with my account?",
+        "intent": "general_enquiry",
+        "sentiment": "neutral",
+        "lead_score": 50,
+        "recommended_action": "Add to newsletter and monitor engagement."
+    },
+    {
+        "timestamp": "2025-12-11 22:19:09.738904",
+        "message": "I\u2019m honestly not happy with the service lately. I\u2019m considering cancelling.",
+        "intent": "churn_risk",
+        "sentiment": "neutral",
+        "lead_score": 20,
+        "recommended_action": "Send retention offer or schedule a call."
+    },
+    {
+        "timestamp": "2025-12-11 22:19:25.443303",
+        "message": "Just wanted to say your product has been great for our team. Thanks!",
+        "intent": "general_enquiry",
+        "sentiment": "positive",
+        "lead_score": 60,
+        "recommended_action": "Add to newsletter and monitor engagement."
+    },
+    {
+        "timestamp": "2025-12-15 10:32:19.176645",
+        "message": "i DIDNT LIKE THE PRODUCT",
+        "intent": "general_enquiry",
+        "sentiment": "neutral",
+        "lead_score": 40,
+        "recommended_action": "Review manually. LLM output could not be parsed."
+    },
+    {
+        "timestamp": "2025-12-15 11:23:25.347457",
+        "message": "i didnt like the product",
+        "intent": "general_enquiry",
+        "sentiment": "neutral",
+        "lead_score": 30,
+        "recommended_action": "Add to nurture and monitor engagement."
+    },
+    {
+        "timestamp": "2025-12-15 11:30:13.926705",
+        "message": "i didnt like the product",
+        "intent": "general_enquiry",
+        "sentiment": "neutral",
+        "lead_score": 30,
+        "recommended_action": "Add to nurture and monitor engagement."
+    },
+    {
+        "timestamp": "2025-12-15 11:33:26.140814",
+        "message": "the metal became rusty within a few hors itself on the beyblade",
+        "intent": "general_enquiry",
+        "sentiment": "neutral",
+        "lead_score": 30,
+        "recommended_action": "Add to nurture and monitor engagement."
+    },
+    {
+        "timestamp": "2025-12-15 11:45:38.709616",
+        "message": "the software has laggy issues",
+        "intent": "support",
+        "sentiment": "negative",
+        "lead_score": 20,
+        "recommended_action": "Add to nurture and monitor engagement."
+    },
+    {
+        "timestamp": "2025-12-15 13:23:24.499824",
+        "message": "it has been slow and troublesome",
+        "intent": "general_enquiry",
+        "sentiment": "neutral",
+        "lead_score": 30,
+        "recommended_action": "Add to nurture and monitor engagement."
+    },
+    {
+        "timestamp": "2025-12-15 17:48:57.341871",
+        "message": "im unable to access to the login page",
+        "intent": "general_enquiry",
+        "sentiment": "neutral",
+        "lead_score": 30,
+        "recommended_action": "Add to nurture and monitor engagement."
+    }
+]
